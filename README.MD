@@ -124,9 +124,9 @@ Server akan berjalan di `ws://localhost:8080`
 
 1. Buka file `index.htm` di browser (cukup klik 2x atau drag ke browser)
 2. Bisa buka **2 tab atau 2 browser berbeda** dengan file HTML yang sama
-3. Coba kirim pesan → pesan akan muncul **di semua tab secara real-time**
+3. Coba kirim pesan → pesan akan muncul **di semua tab secara real-time** seperti contoh berikut :
 
-![alt text](asset/videos/experimen.mp4)
+![experimen simulasi](asset/videos/experimen.gif)
 
 
 ## 💡 Hasil Eksperimen
